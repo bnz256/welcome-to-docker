@@ -71,7 +71,7 @@ const Confetti = () => {
                     color: {
                         value: [
                             "#ffffff",
-                            "#FF0000"
+                            "#00FF00"
                         ]
                     },
                     move: {
